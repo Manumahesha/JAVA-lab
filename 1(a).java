@@ -1,7 +1,3 @@
-//1 a) Consider a collection of series with a combination of two sequence – all the odd terms in
-//this series form a geometric series and all the even terms form yet another geometric series.
-//Develop a Java program to find the Nth term in the series.
-//Sample series shown here: 1, 1, 2, 3, 4, 9, 8, 27, 16, 81, 32, 243, 64, 729, 128, 2187 …
 // Java program to find Nth term in the given Series
 import java.io.*;
 import java.util.*;
